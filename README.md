@@ -1,1 +1,1 @@
-Just a collection of mockups experimenting on Figma
+Just a collection of mockups I've made experimenting on Figma
